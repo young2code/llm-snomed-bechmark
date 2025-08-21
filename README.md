@@ -9,6 +9,10 @@ This project introduces an interactive benchmarking framework for evaluating lar
 - Target: Any LLM accessible via OpenAI-compatible API (tested with GPT-3.5-turbo, GPT-4-turbo, Grok-3-mini).
 - Goal: Measure accuracy, precision, and recall of predicted SNOMED codes after a multi-turn dialogue.
 
+## Video Demo
+https://github.com/user-attachments/assets/0cbe57f2-bd09-49e2-89b2-742af13ccc7d
+
+
 ## Sample Benchmark Result (GPT-4 Turbo)
 ```
 🧪 Running case 3/3 for patient 36c63375-a5be-f2fd-5ead-457c203771ed...
