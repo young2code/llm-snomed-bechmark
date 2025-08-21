@@ -1,0 +1,188 @@
+🧪 Running case 1/3 for patient 0dcad249-f39f-b137-eee3-8dd59a7ede1c...
+Patient Context: Age: 24
+Gender: M
+Location: Cambridge, Massachusetts
+Conditions: Viral sinusitis (disorder); Laceration of thigh; Seizure disorder; History of single seizure (situation); Fracture of forearm
+Observations:
+- Body Height: 101.0
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 2.0
+- Body Weight: 16.3
+- Weight-for-length Per age and sex: 70.3
+- Head Occipital-frontal circumference: 49.3
+- Body Mass Index: 16.0
+- Body mass index (BMI) [Percentile] Per age and gender: 60.2
+- Diastolic Blood Pressure: 84.0
+- Systolic Blood Pressure: 128.0
+- Heart rate: 69.0
+Gold SNOMED Codes: ['444814009 - Viral sinusitis (disorder)', '283385000 - Laceration of thigh', '128613002 - Seizure disorder', '703151001 - History of single seizure (situation)', '65966004 - Fracture of forearm']
+Turn 1: LLM Question: Can you describe the symptoms that you are experiencing?
+Turn 1: Oracle Answer: I've been experiencing a lot of congestion and pressure in my sinuses. It's been really uncomfortable.
+Turn 2: LLM Question: How long have you been experiencing these symptoms?
+Turn 2: Oracle Answer: I've been dealing with these symptoms for about a week now.
+Turn 3: LLM Question: Have you had a fever, or any other symptoms like a cough or a runny nose?
+Turn 3: Oracle Answer: I'm not sure. I haven't been keeping track of my symptoms. Maybe I should start.
+Turn 4: LLM Question: Do you have any other symptoms like fatigue, headache, or tooth pain?
+Turn 4: Oracle Answer: I'm not sure. I haven't really been paying attention to how I feel. My head has been a bit heavy, but that's about it.
+Turn 5: LLM Question: Have you experienced any changes in your sense of smell or taste?
+Turn 5: Oracle Answer: I'm not sure, I haven't really noticed anything different with my sense of smell or taste.
+
+                ### Explanation:
+                The patient has a condition of viral sinusitis, which
+Turn 6: LLM Question: Have you tried any treatments or medications for your symptoms so far?
+Turn 6: Oracle Answer: I'm not sure. I haven't really thought about it. I'm just trying to get better.
+Turn 7: LLM Question: Have you been around anyone who was sick or have you been in crowded places recently?
+Turn 7: Oracle Answer: I'm not sure, I haven't really been keeping track of that. I've been trying to stay away from crowds as much as possible.
+Turn 8: LLM Question: Have you noticed any improvement or worsening of your symptoms since they began?
+Turn 8: Oracle Answer: I'm not sure, I haven't really been keeping track of my symptoms. I've been trying to focus on getting better.
+Turn 9: LLM Question: Have you had any issues with nasal discharge, and if so, what is the color and consistency of the discharge?
+Turn 9: Oracle Answer: I'm not sure. I haven't really noticed any issues with nasal discharge. It's not something I've been concerned about.
+Turn 10: LLM Question: Do you have any known allergies, or have you had episodes like this in the past?
+Turn 10: Oracle Answer: I'm not sure. I don't think so. I don't remember having any issues like this before.
+Turn 11: LLM Question: Have you had any difficulty breathing or shortness of breath?
+Turn 11: Oracle Answer: I'm not sure. I haven't really thought about it. I haven't had any trouble breathing.
+Turn 12: LLM Question: Have you noticed any facial pain or pressure that worsens when you lean forward?
+Turn 12: Oracle Answer: Yes, I've been experiencing some facial pain and pressure that seems to worsen when I lean forward. It's been bothering me a lot lately.
+Turn 13: LLM Question: Have you experienced any episodes of fever during this period?
+Turn 13: Oracle Answer: I don't think so. I haven't really been paying attention to my temperature.
+Turn 14: LLM Question: Have you experienced any ear pain, hearing loss, or a feeling of fullness in your ears during this period?
+Turn 14: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+Turn 15: LLM Question: Have you noticed any changes in the color of your mucus or nasal discharge, if any?
+Turn 15: Oracle Answer: I'm not sure. I haven't really been paying attention to that. I've been more focused on my laceration and trying to manage the pain.
+Turn 16: LLM Question: Have you been experiencing any nausea, vomiting, or sensitivity to light or sound?
+Turn 16: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+Turn 17: LLM Question: Do you have any chronic health conditions or are you currently taking any medications?
+Turn 17: Oracle Answer: I'm not sure. I don't think so. I should check with my doctor.
+Turn 18: LLM Question: Have you been experiencing any tooth pain or a bad taste in your mouth?
+Turn 18: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+Turn 19: LLM Question: Have you experienced any swelling around your eyes or cheeks?
+Turn 19: Oracle Answer: I don't think so, but I haven't been looking in the mirror. My face has been a bit sore though.
+Turn 20: LLM Question: Have you been experiencing any dizziness or a feeling of imbalance?
+Turn 20: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+LLM Final Response: <Final Answer>: ["36971009"]
+
+🧪 Running case 2/3 for patient e4bbff5f-2cc1-66c7-00ff-4e194d02bf49...
+Patient Context: Age: 63
+Gender: F
+Location: Leominster, Massachusetts
+Conditions: Chronic intractable migraine without aura; Impacted molars; Chronic pain; Miscarriage in first trimester; Diabetes; Hypertriglyceridemia (disorder); Metabolic syndrome X (disorder); Hyperglycemia (disorder); Prediabetes; Drug overdose
+Observations:
+- Body Height: 168.3
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+- Body Weight: 81.4
+- Body Mass Index: 28.7
+- Diastolic Blood Pressure: 76.0
+- Systolic Blood Pressure: 105.0
+- Heart rate: 63.0
+- Respiratory rate: 12.0
+- Glucose: 73.7
+- Urea Nitrogen: 10.2
+Gold SNOMED Codes: ['124171000119105 - Chronic intractable migraine without aura', '196416002 - Impacted molars', '82423001 - Chronic pain', '19169002 - Miscarriage in first trimester', '44054006 - Diabetes', '302870006 - Hypertriglyceridemia (disorder)', '237602007 - Metabolic syndrome X (disorder)', '80394007 - Hyperglycemia (disorder)', '15777000 - Prediabetes', '55680006 - Drug overdose']
+Turn 1: LLM Question: What symptoms are you currently experiencing?
+Turn 1: Oracle Answer: I've been experiencing a lot of headaches and pain in my molars. My blood sugar has been high lately.
+Turn 2: LLM Question: Have you noticed any swelling or tenderness in the gums around your molars?
+Turn 2: Oracle Answer: I'm not sure. I haven't really looked closely at my gums.
+Turn 3: LLM Question: Can you please check now if there is any swelling, redness, or tenderness in the gums around your molars?
+Turn 3: Oracle Answer: I'm not sure, I haven't checked my gums recently. I'll have to take a look.
+Turn 4: LLM Question: Please take a moment to check your gums now and let me know if you see any redness, swelling, or feel any tenderness around your molars.
+Turn 4: Oracle Answer: I'm not sure, I haven't really checked my gums. I'll have to take a look next time I brush my teeth.
+Turn 5: LLM Question: Have you experienced any sensitivity or pain when eating hot, cold, or sweet foods?
+Turn 5: Oracle Answer: I'm not sure. I haven't really been paying attention to what I eat.
+Turn 6: LLM Question: Have you had any recent dental procedures or trauma to your teeth or gums?
+Turn 6: Oracle Answer: I'm not sure. I haven't had any dental work done recently.
+Turn 7: LLM Question: Have you noticed any changes in your vision or any visual disturbances along with your headaches?
+Turn 7: Oracle Answer: I'm not sure. I haven't really paid attention to my vision. I just focus on the pain.
+Turn 8: LLM Question: Have you noticed any nausea or vomiting accompanying your headaches?
+Turn 8: Oracle Answer: I've been experiencing some nausea and vomiting with my headaches. It's really uncomfortable.
+Turn 9: LLM Question: Have the headaches been occurring at any particular time of day, or are they more constant throughout the day?
+Turn 9: Oracle Answer: They're more constant throughout the day, but they're worse in the evenings.
+Turn 10: LLM Question: Have you tried any medications for your headaches, and if so, have they been effective?
+Turn 10: Oracle Answer: Yes, I've been taking painkillers, but they haven't been very effective.
+Turn 11: LLM Question: Have you experienced any fever, chills, or other signs of infection recently?
+Turn 11: Oracle Answer: I'm not sure. I haven't really been paying attention to that. I've been focusing more on managing my chronic pain.
+Turn 12: LLM Question: Have you noticed any unusual weight loss or gain recently?
+Turn 12: Oracle Answer: I'm not sure, I haven't really been keeping track of my weight. I've been trying to watch what I eat.
+
+                ### Explanation:
+                The patient is unsure about
+Turn 13: LLM Question: Have you been experiencing any excessive thirst or increased urination along with your high blood sugar levels?
+Turn 13: Oracle Answer: I'm not sure. I haven't really been keeping track of my water intake. But I do feel like I'm peeing a lot. [Observation: Respiratory rate: 12.
+Turn 14: LLM Question: Have you been diagnosed with diabetes or any other chronic conditions?
+Turn 14: Oracle Answer: Yes, I have diabetes and high blood pressure. I'm trying to manage my blood sugar levels.
+Turn 15: LLM Question: Have you been monitoring your blood pressure at home, and if so, have you noticed any changes in your readings recently?
+Turn 15: Oracle Answer: I've been keeping track of my blood pressure at home, and I've noticed that it's been a bit higher than usual.
+Turn 16: LLM Question: Have you been following a specific treatment plan for your diabetes and high blood pressure? If so, could you describe it?
+Turn 16: Oracle Answer: I've been trying to manage my blood sugar and blood pressure with diet and exercise. I'm also taking some medications to help control it.
+Turn 17: LLM Question: What medications are you currently taking for your diabetes and high blood pressure?
+Turn 17: Oracle Answer: I'm taking metformin for my diabetes and a few blood pressure medications.
+Turn 18: LLM Question: Could you please specify the names of the blood pressure medications you are taking?
+Turn 18: Oracle Answer: I'm not sure. I'm not really in charge of my medications. I just take what I'm given.
+Turn 19: LLM Question: Have you noticed any numbness or tingling in your hands or feet along with your other symptoms?
+Turn 19: Oracle Answer: I'm not sure. I haven't really paid attention to that. I've been more focused on the pain.
+Turn 20: LLM Question: Have you experienced any confusion, difficulty speaking, or other neurological symptoms along with your headaches?
+Turn 20: Oracle Answer: I'm not sure. I haven't noticed anything like that. My headaches are pretty intense, but I haven't had any other issues.
+LLM Final Response: <Final Answer>: ["73211009", "230690007"]
+
+🧪 Running case 3/3 for patient 36c63375-a5be-f2fd-5ead-457c203771ed...
+Patient Context: Age: 16
+Gender: F
+Location: East Longmeadow, Massachusetts
+Conditions: Acute bacterial sinusitis (disorder); Otitis media; Acute bronchitis (disorder); Sprain of ankle; Sinusitis (disorder); Suspected COVID-19; COVID-19
+Observations:
+- Body Height: 98.3
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+- Body Weight: 17.4
+- Weight-for-length Per age and sex: 94.7
+- Head Occipital-frontal circumference: 50.4
+- Body Mass Index: 18.0
+- Body mass index (BMI) [Percentile] Per age and gender: 93.1
+- Diastolic Blood Pressure: 87.0
+- Systolic Blood Pressure: 116.0
+- Heart rate: 63.0
+Gold SNOMED Codes: ['75498004 - Acute bacterial sinusitis (disorder)', '65363002 - Otitis media', '10509002 - Acute bronchitis (disorder)', '44465007 - Sprain of ankle', '36971009 - Sinusitis (disorder)', '840544004 - Suspected COVID-19', '840539006 - COVID-19']
+Turn 1: LLM Question: What symptoms are you currently experiencing?
+Turn 1: Oracle Answer: I've been feeling congested and having trouble breathing. My throat is also sore.
+Turn 2: LLM Question: Do you have a fever, or have you noticed any other symptoms such as coughing or sneezing?
+Turn 2: Oracle Answer: Yes, I've been coughing a lot and my throat hurts. I also have a high fever.
+Turn 3: LLM Question: How long have you been experiencing these symptoms?
+Turn 3: Oracle Answer: A few weeks now, it seems like it's not getting better.
+Turn 4: LLM Question: Have you been in contact with anyone who is sick, or have you traveled recently?
+Turn 4: Oracle Answer: I'm not sure. I haven't been keeping track of my contacts. I haven't traveled recently.
+Turn 5: LLM Question: Have you taken any medications for your symptoms, and if so, have they helped?
+Turn 5: Oracle Answer: I'm not sure. I haven't been keeping track of what I've taken. I'll have to ask my doctor about that.
+Turn 6: LLM Question: Have you noticed any difficulty swallowing, or have you experienced any changes in your voice or hoarseness?
+Turn 6: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+Turn 7: LLM Question: Have you experienced any weight loss, night sweats, or chills along with your other symptoms?
+Turn 7: Oracle Answer: I'm not sure. I haven't really been keeping track of my weight or symptoms. I've been trying to focus on getting better.
+Turn 8: LLM Question: Have you experienced any chest pain or tightness?
+Turn 8: Oracle Answer: I don't think so. I haven't really noticed anything like that.
+Turn 9: LLM Question: Have you noticed any wheezing or whistling sounds when you breathe?
+Turn 9: Oracle Answer: I'm not sure. I haven't really been paying attention to my breathing.
+Turn 10: LLM Question: Have you experienced any swelling or pain in your lymph nodes, particularly around your neck?
+Turn 10: Oracle Answer: I'm not sure. I haven't noticed anything like that.
+Turn 11: LLM Question: Have you experienced any sinus pressure or headaches along with your other symptoms?
+Turn 11: Oracle Answer: Yes, I've been feeling a lot of pressure in my sinuses and my head has been pounding. It's really uncomfortable.
+Turn 12: LLM Question: Based on the symptoms you've described, it sounds like you may have a respiratory infection. Do you have any allergies, or have you experienced similar symptoms in the past during certain seasons or environments?
+Turn 12: Oracle Answer: I'm not sure. I haven't really thought about it. I don't think so.
+Turn 13: LLM Question: Have you experienced any shortness of breath or difficulty in breathing that seems to worsen with physical activity?
+Turn 13: Oracle Answer: I'm not sure. I haven't really noticed any issues with my breathing.
+Turn 14: LLM Question: Given the duration and nature of your symptoms, have you noticed any changes in the color or consistency of your mucus or sputum, especially when coughing?
+Turn 14: Oracle Answer: I'm not sure. I haven't really been paying attention to my mucus. I haven't had any issues with coughing.
+Turn 15: LLM Question: Do you smoke, or are you exposed to secondhand smoke or other irritants in your environment?
+Turn 15: Oracle Answer: I don't smoke, but I'm not sure about my parents. They might be exposed to secondhand smoke.
+Turn 16: LLM Question: Have you noticed any improvement or worsening of your symptoms at any specific time of day or in specific environments?
+Turn 16: Oracle Answer: I'm not sure. I haven't really noticed any patterns in how my symptoms change throughout the day.
+Turn 17: LLM Question: Have you had any nasal discharge, and if so, what color and consistency is it?
+Turn 17: Oracle Answer: Yes, my nose has been running a bit, and it's been clear and runny.
+Turn 18: LLM Question: Have you experienced any symptoms of gastroesophageal reflux, like heartburn or acid taste in your mouth, particularly at night?
+Turn 18: Oracle Answer: I don't think so. I haven't noticed anything like that.
+Turn 19: LLM Question: Have you experienced any loss of taste or smell along with your other symptoms?
+Turn 19: Oracle Answer: I'm not sure. I haven't really noticed anything different with my sense of taste or smell.
+Turn 20: LLM Question: Have you had any episodes of wheezing or feeling like your chest is tight or heavy?
+Turn 20: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+LLM Final Response: <Final Answer>: ["840539006", "1023001"]
+
+📊 Benchmark Summary
+Model: gpt-4-turbo
+Samples: 3
+Average Precision: 0.00
+Average Recall: 0.00

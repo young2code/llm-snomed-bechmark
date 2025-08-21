@@ -1,0 +1,86 @@
+🧪 Running case 1/3 for patient 050358a1-fcf7-1182-7ad1-6b663afa3002...
+Patient Context: Age: 20
+Gender: M
+Location: Waltham, Massachusetts
+Conditions: Acute viral pharyngitis (disorder); Otitis media; Whiplash injury to neck; Viral sinusitis (disorder); Acute bronchitis (disorder); Child attention deficit disorder; Suspected COVID-19; COVID-19; Pneumonia (disorder); Hypoxemia (disorder)
+Observations:
+- Body Height: 116.4
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+- Body Weight: 25.6
+- Body Mass Index: 18.9
+- Body mass index (BMI) [Percentile] Per age and gender: 96.8
+- Diastolic Blood Pressure: 77.0
+- Systolic Blood Pressure: 114.0
+- Heart rate: 62.0
+- Respiratory rate: 14.0
+- Leukocytes [#/volume] in Blood by Automated count: 5.2
+Gold SNOMED Codes: ['195662009 - Acute viral pharyngitis (disorder)', '65363002 - Otitis media', '39848009 - Whiplash injury to neck', '444814009 - Viral sinusitis (disorder)', '10509002 - Acute bronchitis (disorder)', '192127007 - Child attention deficit disorder', '840544004 - Suspected COVID-19', '840539006 - COVID-19', '233604007 - Pneumonia (disorder)', '389087006 - Hypoxemia (disorder)']
+Turn 1: LLM Question: What symptoms are you currently experiencing?
+Turn 1: Oracle Answer: I've been having a sore throat and a stuffy nose.
+Turn 2: LLM Question: Have you had a fever recently?
+Turn 2: Oracle Answer: Yes, I've been running a high temperature.
+Turn 3: LLM Question: Do you have any difficulty breathing or chest pain?
+Turn 3: Oracle Answer: I'm not sure. I haven't really noticed anything like that.
+Turn 4: LLM Question: Do you have any cough or phlegm production?
+Turn 4: Oracle Answer: Yes, I've been coughing a lot and producing phlegm. It's been bothering me.
+Turn 5: LLM Question: Do you have any recent history of travel or exposure to sick individuals?
+Turn 5: Oracle Answer: I'm not sure. I haven't really been around anyone who's been sick.
+Turn 6: LLM Question: Do you have any body aches or fatigue?
+Turn 6: Oracle Answer: I'm not sure. I haven't really been paying attention to how my body feels.
+Turn 7: LLM Question: Have you recently lost your sense of taste or smell?
+Turn 7: Oracle Answer: I'm not sure. I haven't really noticed anything different with my sense of taste or smell. Why do you ask?
+LLM Final Response: Final Answer: ["386661006", "49727002"]
+
+🧪 Running case 2/3 for patient 76b289fd-e825-734c-8446-316f59643593...
+Patient Context: Age: 40
+Gender: F
+Location: Boston, Massachusetts
+Conditions: Miscarriage in first trimester; Tubal pregnancy; Escherichia coli urinary tract infection; Viral sinusitis (disorder); Diabetes; Hypertriglyceridemia (disorder); Acute viral pharyngitis (disorder); Closed fracture of hip; Facial laceration; Anemia (disorder)
+Observations:
+- Body Height: 158.3
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 3.0
+- Body Weight: 65.7
+- Body Mass Index: 26.2
+- Diastolic Blood Pressure: 80.0
+- Systolic Blood Pressure: 117.0
+- Heart rate: 95.0
+- Respiratory rate: 14.0
+- Leukocytes [#/volume] in Blood by Automated count: 3.6
+- Erythrocytes [#/volume] in Blood by Automated count: 4.7
+Gold SNOMED Codes: ['19169002 - Miscarriage in first trimester', '79586000 - Tubal pregnancy', '301011002 - Escherichia coli urinary tract infection', '444814009 - Viral sinusitis (disorder)', '44054006 - Diabetes', '302870006 - Hypertriglyceridemia (disorder)', '195662009 - Acute viral pharyngitis (disorder)', '359817006 - Closed fracture of hip', '370247008 - Facial laceration', '271737000 - Anemia (disorder)']
+Turn 1: LLM Question: Do you have any symptoms such as fever, cough, shortness of breath, or body aches?
+Turn 1: Oracle Answer: I'm not sure. I haven't been paying attention to how I feel. I'm just trying to get through the day.
+Turn 2: LLM Question: Have you experienced any changes in your appetite, weight, or sleep patterns recently?
+Turn 2: Oracle Answer: I've been feeling really tired and my appetite has been off. I've been eating a lot less than usual.
+LLM Final Response: Final Answer: ["230145002", "386661006"]
+
+🧪 Running case 3/3 for patient d7b59f8c-fe04-46a1-de11-1ca3bd0d58e9...
+Patient Context: Age: 27
+Gender: M
+Location: Hatfield, Massachusetts
+Conditions: Acute viral pharyngitis (disorder); Viral sinusitis (disorder); Acute bronchitis (disorder); Sprain of ankle; Hypertension
+Observations:
+- Body temperature: 37.5
+- Body Height: 147.2
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 0.0
+- Body Weight: 52.6
+- Body Mass Index: 24.3
+- Body mass index (BMI) [Percentile] Per age and gender: 93.4
+- Diastolic Blood Pressure: 75.0
+- Systolic Blood Pressure: 123.0
+- Heart rate: 65.0
+- Respiratory rate: 15.0
+Gold SNOMED Codes: ['195662009 - Acute viral pharyngitis (disorder)', '444814009 - Viral sinusitis (disorder)', '10509002 - Acute bronchitis (disorder)', '44465007 - Sprain of ankle', '59621000 - Hypertension']
+Turn 1: LLM Question: Do you have any current symptoms or complaints that you would like to discuss?
+Turn 1: Oracle Answer: Yes, I've been dealing with a sore throat and congestion. It's been bothering me a lot.
+Turn 2: LLM Question: Do you have a fever along with your sore throat and congestion?
+Turn 2: Oracle Answer: I'm not sure. I haven't checked my temperature. It's been a while since I've had a fever.
+Turn 3: LLM Question: Do you have any cough or difficulty breathing along with your sore throat and congestion?
+Turn 3: Oracle Answer: Yes, I've been coughing a lot and it's hard to breathe through my nose. It's been a bit uncomfortable.
+LLM Final Response: Final Answer: ["386661006", "49727002"]
+
+📊 Benchmark Summary
+Model: gpt-3.5-turbo
+Samples: 3
+Average Precision: 0.00
+Average Recall: 0.00

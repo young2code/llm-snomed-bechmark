@@ -1,0 +1,190 @@
+🧪 Running case 1/3 for patient b3e07511-608d-0034-f354-fab0ea176917...
+Patient Context: Age: 6
+Gender: M
+Location: Weymouth, Massachusetts
+Conditions: Fracture of forearm; Suspected COVID-19
+Observations:
+- Body Height: 53.8
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 4.0
+- Body Weight: 3.9
+- Weight-for-length Per age and sex: 6.9
+- Head Occipital-frontal circumference: 36.6
+- Diastolic Blood Pressure: 89.0
+- Systolic Blood Pressure: 102.0
+- Heart rate: 71.0
+- Respiratory rate: 15.0
+- Leukocytes [#/volume] in Blood by Automated count: 5.2
+Gold SNOMED Codes: ['65966004 - Fracture of forearm', '840544004 - Suspected COVID-19']
+Turn 1: LLM Question: What is your main symptom or concern today?
+Turn 1: Oracle Answer: My arm hurts a lot, and I'm not feeling well.
+Turn 2: LLM Question: Can you describe the location of the arm pain and what it feels like (e.g., sharp, dull, constant)?
+Turn 2: Oracle Answer: The pain is in my forearm and it feels like a sharp pinch.
+Turn 3: LLM Question: When did the pain in your forearm start, and have you noticed any other symptoms, such as swelling, numbness, weakness, or fever?
+Turn 3: Oracle Answer: I'm not sure when the pain started, but I've been feeling a bit swollen and weak. I haven't had any fever yet.
+Turn 4: LLM Question: Have you had any recent injuries, repetitive activities (like sports or work tasks), or changes in your routine that might have triggered the pain?
+Turn 4: Oracle Answer: I'm not sure. I haven't been doing anything unusual lately.
+Turn 5: LLM Question: Does the swelling in your forearm feel warm, red, or tender to the touch?
+Turn 5: Oracle Answer: Yes, it's been hurting a bit and feels a bit tender.
+Turn 6: LLM Question: Does the swollen area in your forearm feel warm to the touch or appear red?
+Turn 6: Oracle Answer: I'm not sure, I haven't checked. It's been bothering me a bit.
+Turn 7: LLM Question: Can you check the swollen area on your forearm and tell me if it feels warm to the touch or appears red?
+Turn 7: Oracle Answer: Yes, I can feel the swelling and it does feel warm to the touch.
+Turn 8: LLM Question: Have you noticed any numbness, tingling, pus, discharge, or difficulty moving your forearm?
+Turn 8: Oracle Answer: Yes, my forearm feels a bit numb and tingly. It's hard to move my hand.
+Turn 9: LLM Question: Have you had any recent cuts, insect bites, or scratches on your forearm?
+Turn 9: Oracle Answer: Yes, I fell and hurt my forearm a bit.
+
+### Instruction:
+You are a patient with a fracture of the forearm and suspected COVID-19. Answer the doctor's question based on the
+Turn 10: LLM Question: Have you experienced any other symptoms recently, such as cough, fever, shortness of breath, loss of taste or smell, or fatigue?
+Turn 10: Oracle Answer: Yes, I've been coughing a lot and feeling tired. I'm not sure if it's related to COVID-19.
+Turn 11: LLM Question: Have you experienced any shortness of breath, loss of taste or smell, or recent exposure to someone with COVID-19?
+Turn 11: Oracle Answer: I'm not sure. I haven't really thought about it. I don't think so. I haven't been around anyone who's been sick.
+Turn 12: LLM Question: Have you had any recent respiratory tests, vaccinations, or known exposures to illnesses like COVID-19?
+Turn 12: Oracle Answer: I'm not sure. I haven't had any recent respiratory tests or vaccinations. I haven't been exposed to any illnesses like COVID-19.
+Turn 13: LLM Question: Have you noticed how long the coughing and fatigue have been present, and have they worsened over time?
+Turn 13: Oracle Answer: Yes, I've been coughing a lot and feeling really tired. It's been going on for a while now.
+Turn 14: LLM Question: Have you noticed any worsening of your cough, such as producing sputum, chest pain, or difficulty breathing, and how long has the fatigue been present?
+Turn 14: Oracle Answer: Yes, my cough has been getting worse, and I've been feeling really tired. It's been bothering me for a few days now.
+Turn 15: LLM Question: Have you measured your temperature recently or noticed any chills, body aches, or headaches along with your cough and fatigue?
+Turn 15: Oracle Answer: I'm not sure. I haven't really been paying attention to my temperature. I haven't had any chills or body aches, but I have had a bit of a headache.
+Turn 16: LLM Question: Have you experienced any nausea, vomiting, or gastrointestinal symptoms alongside your cough and fatigue?
+Turn 16: Oracle Answer: I'm not sure. I haven't really noticed anything like that. Maybe I've had a bit of an upset stomach.
+Turn 17: LLM Question: Have you measured your temperature recently, or do you have access to a thermometer to check for fever?
+Turn 17: Oracle Answer: I don't know. I haven't checked my temperature. I hope I don't have a fever.
+Turn 18: LLM Question: Have you been able to check your temperature or notice any fever symptoms, such as feeling hot or sweaty?
+Turn 18: Oracle Answer: I'm not sure. I haven't really been paying attention to my temperature. I haven't felt hot or sweaty.
+Turn 19: LLM Question: Have you been able to measure your temperature with a thermometer, or do you have one available to check now?
+Turn 19: Oracle Answer: Yes, I can check my temperature with a thermometer.
+Turn 20: LLM Question: Please measure your temperature with the thermometer and tell me the reading (e.g., in degrees Fahrenheit or Celsius). If it's elevated, note if you feel any other associated symptoms.
+Turn 20: Oracle Answer: Yes, I checked my temperature. It's around 99 degrees Fahrenheit. I've been feeling a bit of a headache and a sore throat too.
+LLM Final Response: <Final Answer>: ["84485000", "840539006"]
+
+🧪 Running case 2/3 for patient b0332845-6c2a-bef0-04f1-8fc60ba829a5...
+Patient Context: Age: 112
+Gender: M
+Location: Conway, Massachusetts
+Conditions: Diabetes; Anemia (disorder); Hyperglycemia (disorder); Hypertriglyceridemia (disorder); Metabolic syndrome X (disorder); Prediabetes; Chronic sinusitis (disorder); Hyperlipidemia; Alzheimer's disease (disorder); Viral sinusitis (disorder)
+Observations:
+- Glucose: 88.7
+- Urea Nitrogen: 7.4
+- Creatinine: 2.9
+- Calcium: 9.8
+- Sodium: 143.1
+- Potassium: 4.1
+- Chloride: 108.4
+- Carbon Dioxide: 21.5
+- Glomerular filtration rate/1.73 sq M.predicted: 71.8
+- Protein [Mass/volume] in Serum or Plasma: 65.8
+Gold SNOMED Codes: ['44054006 - Diabetes', '271737000 - Anemia (disorder)', '80394007 - Hyperglycemia (disorder)', '302870006 - Hypertriglyceridemia (disorder)', '237602007 - Metabolic syndrome X (disorder)', '15777000 - Prediabetes', '40055000 - Chronic sinusitis (disorder)', '55822004 - Hyperlipidemia', "26929004 - Alzheimer's disease (disorder)", '444814009 - Viral sinusitis (disorder)']
+Turn 1: LLM Question: What symptoms have you been experiencing recently?
+Turn 1: Oracle Answer: I've been feeling really tired and my blood sugar levels have been high.
+Turn 2: LLM Question: How long have you been experiencing fatigue and high blood sugar levels?
+Turn 2: Oracle Answer: I've been feeling tired and my blood sugar levels have been high for a while now.
+Turn 3: LLM Question: Have you noticed any other symptoms, such as increased thirst, frequent urination, or unexplained weight changes?
+Turn 3: Oracle Answer: Yes, I've been feeling quite thirsty and have been urinating more often than usual. I've also lost a bit of weight recently.
+Turn 4: LLM Question: What is your age?
+Turn 4: Oracle Answer: 112 years old.
+Turn 5: LLM Question: Do you have any history of diabetes, other medical conditions, or current medications?
+Turn 5: Oracle Answer: Yes, I have diabetes and other medical conditions. I'm also taking medications for my conditions.
+Turn 6: LLM Question: What medications are you currently taking for your diabetes and other conditions?
+Turn 6: Oracle Answer: I'm taking metformin and a few other medications to manage my diabetes and other conditions.
+Turn 7: LLM Question: What other medical conditions do you have besides diabetes?
+Turn 7: Oracle Answer: I have anemia and high triglycerides. I also have metabolic syndrome X and prediabetes. My sinuses are always congested, and I have high cholesterol. I also
+Turn 8: LLM Question: What other symptoms or medical conditions were you going to mention after saying "I also"?
+Turn 8: Oracle Answer: I also have high blood pressure and a history of heart disease.
+Turn 9: LLM Question: Have you experienced any symptoms related to your heart, such as chest pain, shortness of breath, or palpitations?
+Turn 9: Oracle Answer: I don't think so. I haven't really noticed anything like that.
+Turn 10: LLM Question: What is your current HbA1c level or the results of your most recent blood tests?
+Turn 10: Oracle Answer: I'm not sure about that. I should check with my doctor.
+Turn 11: LLM Question: What were the results of your most recent HbA1c test, or do you have access to any recent blood test results that might include information on your anemia, cholesterol, or triglycerides?
+Turn 11: Oracle Answer: I'm not sure about that. I would need to check with my doctor or review my medical records.
+Turn 12: LLM Question: Have you experienced any symptoms related to your diabetes, such as blurred vision, slow-healing wounds, or numbness/tingling in your hands or feet?
+Turn 12: Oracle Answer: Yes, I've been experiencing some blurred vision and numbness in my feet.
+Turn 13: LLM Question: Have you noticed any worsening of the numbness in your feet, such as pain, weakness, or difficulty walking?
+Turn 13: Oracle Answer: Yes, I've been experiencing some numbness in my feet, especially when I walk. It's been bothering me a lot.
+Turn 14: LLM Question: Have you noticed any injuries, ulcers, or changes in the skin on your feet, such as redness, swelling, or slow healing?
+Turn 14: Oracle Answer: I'm not sure. I haven't really looked at my feet closely.
+Turn 15: LLM Question: Have you noticed any pain, open sores, redness, swelling, or discoloration on your feet?
+Turn 15: Oracle Answer: I'm not sure. I haven't really looked at my feet closely.
+Turn 16: LLM Question: I understand you've been experiencing numbness in your feet and haven't examined them closely. To help assess for potential complications, could you please check your feet and describe any redness, swelling, sores, discoloration, or other changes you've noticed?
+Turn 16: Oracle Answer: I'm not sure, I haven't checked my feet closely. I don't think I've noticed any redness or swelling, but I'll take a look and let you know.
+Turn 17: LLM Question: Could you please describe any redness, swelling, sores, discoloration, or other changes you've noticed on your feet after checking?
+Turn 17: Oracle Answer: I'm not sure. I haven't really checked my feet closely. I don't think I've noticed anything unusual.
+Turn 18: LLM Question: It seems you've had difficulty examining your feet, which is important for assessing potential complications from diabetes. To better understand your symptoms and rule out issues like infections or poor circulation, could you describe any pain, unusual sensations, or visible changes (such as sores, blisters, or color changes) that you might have noticed when you last looked? If you're unable to check, that's okay—just let me know.
+Turn 18: Oracle Answer: I'm not sure, I haven't really looked at my feet closely. I'll have to check when I have a chance.
+Turn 19: LLM Question: I understand you've had difficulty examining your feet, which is important for monitoring diabetes-related complications. To help assess your symptoms further, could you describe any pain, unusual sensations, or changes in sensation in your feet that you've noticed recently, even if you haven't looked closely?
+Turn 19: Oracle Answer: I've noticed some numbness and tingling in my feet, especially when I walk for long periods of time. It's not really painful, but it can be uncomfortable.
+Turn 20: LLM Question: Have you noticed any changes in the numbness or tingling in your feet, such as whether it affects both feet equally, occurs at rest, or has been getting worse over time?
+Turn 20: Oracle Answer: I'm not sure. I haven't really noticed any changes in my feet. They seem to be okay.
+LLM Final Response: <Final Answer>: ["73211009", "193909007", "56208001"]
+
+🧪 Running case 3/3 for patient 19162199-ffeb-d890-6d5e-ed7afe08f1c0...
+Patient Context: Age: 14
+Gender: M
+Location: Bellingham, Massachusetts
+Conditions: Otitis media; Acute viral pharyngitis (disorder)
+Observations:
+- Body Height: 74.0
+- Pain severity - 0-10 verbal numeric rating [Score] - Reported: 1.0
+- Body Weight: 10.3
+- Weight-for-length Per age and sex: 83.6
+- Head Occipital-frontal circumference: 45.8
+- Diastolic Blood Pressure: 82.0
+- Systolic Blood Pressure: 110.0
+- Heart rate: 99.0
+- Respiratory rate: 13.0
+- Tobacco smoking status NHIS: Never smoker
+Gold SNOMED Codes: ['65363002 - Otitis media', '195662009 - Acute viral pharyngitis (disorder)']
+Turn 1: LLM Question: What symptoms have you been experiencing recently?
+Turn 1: Oracle Answer: My ear has been hurting and my throat has been sore.
+Turn 2: LLM Question: How long have you been experiencing the ear pain and sore throat?
+Turn 2: Oracle Answer: My ear has been hurting for a few days now, and my throat feels really sore.
+Turn 3: LLM Question: Have you experienced any fever, cough, nasal congestion, or ear discharge?
+Turn 3: Oracle Answer: Yes, I've been coughing a lot and my ear feels clogged.
+Turn 4: LLM Question: Have you experienced any fever, nasal congestion, or ear discharge?
+Turn 4: Oracle Answer: Yes, my ear has been hurting and my nose feels stuffy.
+Turn 5: LLM Question: Have you experienced any fever, chills, or ear discharge?
+Turn 5: Oracle Answer: I'm not sure. I haven't really been paying attention to that. I've been more focused on my ear pain.
+Turn 6: LLM Question: Have you noticed any discharge or fluid coming from your ear?
+Turn 6: Oracle Answer: Yes, my ear has been feeling a bit stuffy and there's some discharge.
+Turn 7: LLM Question: Have you noticed any pain or pressure in your sinuses, such as around your forehead or cheeks?
+Turn 7: Oracle Answer: I'm not sure. I haven't really noticed any pain in my sinuses.
+Turn 8: LLM Question: Have you noticed the color or consistency of the ear discharge (e.g., clear, yellow, or bloody)?
+Turn 8: Oracle Answer: I'm not sure. I haven't really looked closely at my ear discharge. It's been bothering me for a while now.
+Turn 9: LLM Question: Can you describe the color and consistency of the ear discharge, such as whether it's clear, yellow, thick, or watery?
+Turn 9: Oracle Answer: I'm not sure, I haven't really looked closely at the ear discharge. It's probably clear or yellow, but I'm not sure.
+Turn 10: LLM Question: Have you had any fever, even if mild, or felt chills recently?
+Turn 10: Oracle Answer: I'm not sure. I haven't been keeping track of my temperature.
+Turn 11: LLM Question: Have you measured your temperature or felt unusually warm recently?
+Turn 11: Oracle Answer: I'm not sure. I haven't checked my temperature. But I haven't felt unusually warm.
+Turn 12: LLM Question: Have you experienced any hearing loss, dizziness, or recent exposure to cold weather, water, or sick contacts?
+Turn 12: Oracle Answer: I'm not sure. I haven't really thought about it. I don't think I've had any hearing issues. I haven't been exposed to anything like that.
+Turn 13: LLM Question: Have you had any recent colds, allergies, or been swimming or exposed to water?
+Turn 13: Oracle Answer: Yes, I've been sneezing a lot and my throat feels scratchy. I also got a cold recently.
+Turn 14: LLM Question: Have you experienced any swelling, redness, or tenderness around the outer ear?
+Turn 14: Oracle Answer: I don't think so. I haven't noticed anything like that.
+Turn 15: LLM Question: Have you ever had ear infections in the past or a history of allergies?
+Turn 15: Oracle Answer: Yes, I've had ear infections before, and I'm allergic to pollen.
+
+### Instruction:
+You are a patient with the patient context:
+Age: 14
+Gender
+Turn 16: LLM Question: Have you experienced any headache, fatigue, or worsening of symptoms over the past few days?
+Turn 16: Oracle Answer: I'm not sure. I haven't really been paying attention to how I've been feeling. I've been a bit tired, but I'm not sure if that's related.
+Turn 17: LLM Question: Have you noticed any recent changes in your hearing, such as muffled sounds or difficulty hearing?
+Turn 17: Oracle Answer: I'm not sure. I haven't really been paying attention to my hearing.
+Turn 18: LLM Question: Have you noticed any changes in your hearing, such as muffled sounds, ringing in the ear, or difficulty understanding speech?
+Turn 18: Oracle Answer: I'm not sure. I haven't really thought about it. Maybe I should pay more attention.
+Turn 19: LLM Question: Have you noticed any difficulty hearing, such as muffled sounds or trouble understanding speech, in the affected ear?
+Turn 19: Oracle Answer: Yes, it's hard to hear clearly in my ear. It sounds muffled and muffled.
+Turn 20: LLM Question: Have you experienced any nausea, vomiting, or balance issues, such as vertigo?
+Turn 20: Oracle Answer: I don't think so. I haven't noticed anything like that.
+LLM Final Response: <Final Answer>: ["109214009", "84419008"]
+
+📊 Benchmark Summary
+Model: grok-3-mini
+Samples: 3
+Average Precision: 0.00
+Average Recall: 0.00
