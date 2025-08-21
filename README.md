@@ -10,6 +10,8 @@ This project introduces an interactive benchmarking framework for evaluating lar
 - Goal: Measure accuracy, precision, and recall of predicted SNOMED codes after a multi-turn dialogue.
 
 ## Video Demo
+64x speed play. Origiannlly it took about 15mins on my NVIDIA RTX 4070 SUPER GPU (12GB VRAM).
+
 https://github.com/user-attachments/assets/0cbe57f2-bd09-49e2-89b2-742af13ccc7d
 
 
